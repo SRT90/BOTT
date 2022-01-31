@@ -3,7 +3,7 @@
 //   tal y como esta.
 // + Si modificaras, manten los
 //   creditos:
-//   _MankBarBar & Samu & LolHuman_
+//   _MankBarBar & T90 & LolHuman_
 //============ T90 ============\\
 const { 
   WAConnection,
